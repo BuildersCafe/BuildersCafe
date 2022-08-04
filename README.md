@@ -40,19 +40,11 @@ Toxic ကင်းပြီး မူလရည်ရွယ်ချက်နှ�
 
 
 ## Builders' Cafe 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Builders' Cafe](https://discord.gg/PNKcFtzbvX)  
   
 
 - 🌱 I’m currently learning about people.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
