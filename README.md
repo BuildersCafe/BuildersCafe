@@ -203,6 +203,3 @@ Toxic ကင်းပြီး မူလရည်ရွယ်ချက်နှ�
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
